@@ -1,0 +1,218 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Softinn Sticker",
+      "publisher": "Softinn",
+      "tray_image_file": "Softinn.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_Hi.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "02_Happy.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "03_RaiseBothHands.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "04_Thinking.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "05_ThumbsUp.webp",
+          "emojis": ["😆","♥"]
+        },
+        {
+          "image_file": "06_TwoThumbsUp.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "07_YesOrYosh.webp",
+          "emojis": ["♥","☕"]
+        },
+        {
+          "image_file": "08_Cry.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "09_Scream.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "10_Surprised.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11_BackTurned.webp",
+          "emojis": ["😐"]
+        },
+        {
+          "image_file": "12_Running.webp",
+          "emojis": ["🙂","😘"]
+        },
+        {
+          "image_file": "13_RightHandHoldSpeaker.webp",
+          "emojis": ["☕","❓"]
+        },
+        {
+          "image_file": "14_ShowMobileApp.webp",
+          "emojis": ["📱","🙂"]
+        },
+        {
+          "image_file": "15_HandHoldingPhone.webp",
+          "emojis": ["📱","🙂"]
+        },
+        {
+          "image_file": "16_HoldTabletWithSpec.webp",
+          "emojis": ["📱","🙂"]
+        },
+        {
+          "image_file": "17_SmartInGlasses.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18_Dab.webp",
+          "emojis": ["☕","😆"]
+        },
+        {
+          "image_file": "19_TrollFace.webp",
+          "emojis": ["😜","✨"]
+        },
+        {
+          "image_file": "20_LeftHandPointUp.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "21_PointDiagonallyUpwards.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22_PointLeft.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23_RightHandPointUp.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "24_PointRight.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "25_SitOnChair.webp",
+          "emojis": ["🔋","☕"]
+        },
+        {
+          "image_file": "26_Suitcase.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27_PeekLaugh.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "28_PeekSurprise.webp",
+          "emojis": ["😘","😆"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Softinn Sticker 2",
+      "publisher": "Softinn",
+      "tray_image_file": "Softinn2.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_Superhero.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "02_SantaClauseWithSunglassesThumbsUp.webp",
+          "emojis": ["😄","😀","👋"]
+        },
+        {
+          "image_file": "03_SantaClauseWithThumbsUp.webp",
+          "emojis": ["🖐","👋","😀"]
+        },
+        {
+          "image_file": "04_Dance.webp",
+          "emojis": ["😄","✨"]
+        },
+        {
+          "image_file": "05_FunkyLaptopMode.webp",
+          "emojis": ["😆","♥","💻"]
+        },
+        {
+          "image_file": "06_ExhaustedWithLotWorks.webp",
+          "emojis": ["💻","😐","☕"]
+        },
+        {
+          "image_file": "07_HandSprayMask.webp",
+          "emojis": ["✨","☕"]
+        },
+        {
+          "image_file": "08_DoubleSuitcase.webp",
+          "emojis": ["😐"]
+        },
+        {
+          "image_file": "09_Bellman.webp",
+          "emojis": ["😐"]
+        },
+        {
+          "image_file": "10_FixAirCon2.webp",
+          "emojis": ["😐"]
+        },
+        {
+          "image_file": "11_ServingOnTray.webp",
+          "emojis": ["😐"]
+        },
+        {
+          "image_file": "12_VacuumFloor.webp",
+          "emojis": ["😐","😘"]
+        },
+        {
+          "image_file": "13_MaintenanceStaff.webp",
+          "emojis": ["😐"]
+        },
+        {
+          "image_file": "14_HoldWhiteboardSpecTeach.webp",
+          "emojis": ["😐"]
+        },
+        {
+          "image_file": "15_Accountant.webp",
+          "emojis": ["😐"]
+        },
+        {
+          "image_file": "16_WithChartboard.webp",
+          "emojis": ["😐"]
+        },
+        {
+          "image_file": "17_Manager.webp",
+          "emojis": ["😐"]
+        },
+        {
+          "image_file": "18_ManagerWithChartboard.webp",
+          "emojis": ["😐"]
+        }
+      ]
+    }
+  ]
+}
